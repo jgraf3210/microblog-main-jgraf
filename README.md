@@ -14,3 +14,4 @@ If you would rather use the Gitpod development environment for this app:
 
 - Change the dropdown that says "Web IDE" to "Gitpod" (if it already says "Gitpod" skip this step)
 - Click the button that says "Gitpod"
+![microblog-screenshot](https://user-images.githubusercontent.com/47124919/219261889-63be78fb-0d0f-4f0b-8163-f5ad8aaa2cce.png)
